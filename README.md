@@ -1,6 +1,6 @@
 # FED-2nd-sem-project
 This repository contains our Mini electronics project "LED Flasher Security alarm using UJT"
-<br>
+<br><br>
 The objective of this project is to design and develop a simple and low-cost laser
 security alarm system using:
 <br>
