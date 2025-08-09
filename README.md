@@ -8,7 +8,7 @@ A Laser beam and LDR (Light Dependent Resistor) to detect obstruction.A
 Unijunction Transistor (UJT) based relaxation oscillator to generate pulse signals.
 An LED flasher circuit that visually indicates the breach using blinking light. A
 buzzer to generate an audible alarm upon interruption of the laser beam.
-<br>
+<br><br>
 <b>Key functional objectives:</b>
 <ul>
   <li>Detect intrusion through laser beam interruption.</li>
